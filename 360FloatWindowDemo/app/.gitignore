@@ -1,0 +1,5 @@
+/build
+../.idea/workspace.xml
+../.gradle/
+../.idea/libraries/
+../build/intermediates/model_data.bin
